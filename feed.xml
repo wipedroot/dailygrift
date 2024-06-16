@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-05-26T15:21:43+00:00</updated><id>/feed.xml</id><title type="html">The Daily Grift</title><author><name>Alx</name></author><entry><title type="html">Monetizing Gameplay: Bitcoin In Game Economies</title><link href="/monetizing-gameplay-bitcoin-in-game-economies/" rel="alternate" type="text/html" title="Monetizing Gameplay: Bitcoin In Game Economies" /><published>2024-05-26T00:00:00+00:00</published><updated>2024-05-26T00:00:00+00:00</updated><id>/monetizing-gameplay-bitcoin-in-game-economies</id><content type="html" xml:base="/monetizing-gameplay-bitcoin-in-game-economies/"><![CDATA[<p>Hey there, orange and not so orange gamedevs! Have you ever thought about integrating Bitcoin into your game’s economy?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-06-16T15:50:11+00:00</updated><id>/feed.xml</id><title type="html">The Daily Grift</title><author><name>Alx</name></author><entry><title type="html">The Citadel: Safekeeping The Keys</title><link href="/citadel-key-safekeeping/" rel="alternate" type="text/html" title="The Citadel: Safekeeping The Keys" /><published>2024-06-16T00:00:00+00:00</published><updated>2024-06-16T00:00:00+00:00</updated><id>/citadel-key-safekeeping</id><content type="html" xml:base="/citadel-key-safekeeping/"><![CDATA[<p>Hey grifters! Whether you’re just dipping your toes in bitcoin or you’re a seasoned trader, protecting your digital gold is a must. That’s where hardware wallets come in—they’re like enchanted vaults that blend security and convenience.</p>
+
+<p>When my coins are not about to be liquidated, and sometimes even if they are, they’re always stashed inside a hardware wallet.</p>
+
+<p>As our digital realm continues to expand, these trusty gadgets will be your knights in shining armor, defending your precious assets.</p>
+
+<p>Staying safe in the crypto jungle means being savvy about scams, Craig Wrights &amp; phishing traps. By following best practices, you can outsmart the villains and keep your treasures secure. In the volatile world of crypto, finding a safe haven for your assets can be a quest.</p>
+
+<p>But fear not, hardware wallets offer trust, reliability, and rock-solid security.</p>
+
+<h4 id="the-enchanted-vault-what-is-a-hardware-wallet">The Enchanted Vault: What is a Hardware Wallet?</h4>
+
+<p>Imagine a vault guarded by a dragon —impenetrable and secure. A hardware wallet is just like that. It’s a physical device that boosts your crypto security by storing your private keys offline. These keys are your secret code to access your digital fortune on the blockchain.</p>
+
+<p>Unlike regular wallets or software wallets that might leave your keys vulnerable to online bandits, hardware wallets keep everything offline. This way, you can safely manage and transact with cryptocurrencies like Bitcoin, Ethereum, and Litecoin without worry.</p>
+
+<h4 id="the-magic-behind-the-vault-how-do-hardware-wallets-work">The Magic Behind the Vault: How Do Hardware Wallets Work?</h4>
+
+<p><strong>Here’s the magic trick</strong>: hardware wallets <em>don’t store</em> your actual coins. Instead, they store the private key—the secret spell that unlocks your assets. Since these keys are kept offline, hackers can’t touch them. When you sign a transaction, the hardware wallet uses the private key to confirm it, all without ever exposing it online.</p>
+
+<p>Here’s a quick spellbook on how it works:</p>
+
+<ul>
+  <li>
+    <p><strong>The Birth of the Key:</strong> When you set up a hardware wallet, it creates a unique <strong>pair of cryptographic keys</strong> —a private key (your secret spell) and a public key (your address for receiving coins).</p>
+  </li>
+  <li>
+    <p><strong>The Signing Ceremony:</strong> To trade bitcoin, connect the hardware wallet to your computer or smartphone. The wallet conjures a digital signature using the private key, securing the transaction.</p>
+  </li>
+  <li>
+    <p><strong>The Bridge to the Blockchain:</strong> The hardware wallet connects to the blockchain through a <em>secure bridge</em>, broadcasting and confirming the signed transactions.</p>
+  </li>
+  <li>
+    <p><strong>Guardian Verification:</strong> Usually with a built-in touchscreen, you can verify transaction details like the amount, tx fees, block height, recipient’s info, adding an extra layer of security.</p>
+  </li>
+</ul>
+
+<h4 id="the-secret-spell-why-are-private-keys-important">The Secret Spell: Why Are Private Keys Important?</h4>
+
+<p>In the realm of crypto, private keys are your <em>magic spells</em>. They link you to your blockchain address and its treasures, ensuring the security and ownership of your assets.</p>
+
+<p>To add an extra layer of protection, hardware wallets come with powerful backup and recovery spells.</p>
+
+<p>When setting up your wallet, you’ll create a seed or recovery phrase—a series of random words that can regenerate your private key if needed.</p>
+
+<h4 id="hot-vs-cold-the-battle-of-wallets">Hot vs. Cold: The Battle of Wallets</h4>
+
+<p>Crypto wallets come in two main forms: <strong>hot</strong> (online) wallets and <strong>cold</strong> (offline) wallets. Software wallets are like warm, cozy inns—convenient but vulnerable to thieves.</p>
+
+<p>Hardware wallets, on the other hand, are like fortresses—highly secure by keeping private keys offline.</p>
+
+<p>While hardware wallets might cost a pretty penny, their security features make them worth the investment for long-term guardians of crypto.</p>
+
+<p>Software wallets are great for quick, frequent trades.</p>
+
+<h4 id="the-quest-for-treasure-how-to-use-a-hardware-wallet">The Quest for Treasure: How to Use a Hardware Wallet</h4>
+
+<p>Using a hardware wallet is like following a treasure map. Here’s your guide:</p>
+
+<ul>
+  <li>
+    <p><strong>Equip Your Tools:</strong> Choose a hardware wallet that fits your needs. <a href="https://affil.trezor.io/SHVo">Trezor</a> (Model T, Model One) is a popular choice and my personal preference. <strong>You might think this is a shameless plug. You would be wrong.</strong> <em>It IS a plug</em>, but the product is awesome because Slush is a hero. Download the companion app from the official website.</p>
+  </li>
+  <li>
+    <p><strong>Connect to the Realm:</strong> Use a USB-C or wireless connection (Bluetooth, NFC) to link the wallet to your device. Follow the app’s instructions to set up a security PIN and seed phrase.</p>
+  </li>
+  <li>
+    <p><strong>Add Your Treasure, Maybe Trade:</strong> Use the app to add funds to your wallet. Enter the recipient’s public key address to transfer funds and confirm the details on the wallet’s screen.</p>
+  </li>
+  <li>
+    <p><strong>Seal the Deal:</strong> After confirming, authorize the transaction by entering your PIN. The hardware wallet will sign the transaction using the stored private key.</p>
+  </li>
+</ul>
+
+<h4 id="choosing-your-guardian-things-to-look-for-in-a-hardware-wallet">Choosing Your Guardian: Things to Look for in a Hardware Wallet</h4>
+
+<p>When picking a hardware wallet, consider these key traits:</p>
+
+<ul>
+  <li><strong>Compatibility:</strong> Ensure the wallet works with your device and operating system (Android or iOS) and other wallet interfaces.</li>
+  <li><strong>Cryptocurrency Support:</strong> Check if the wallet supports the cryptocurrencies you want to collect.</li>
+  <li><strong>Security Features:</strong> Look for pin codes, biometric authentication, passphrase protection, and advanced encryption.</li>
+  <li><strong>Backup and Recovery:</strong> Ensure the wallet supports backup and recovery for your private keys and seed phrase.</li>
+</ul>
+
+<h4 id="the-treasures-of-hardware-wallets-benefits-of-hardware-wallets">The Treasures of Hardware Wallets: Benefits Of Hardware Wallets</h4>
+
+<p>Here are the treasures that hardware wallets bring to your crypto adventure:</p>
+
+<ul>
+  <li><strong>Offline Fortification:</strong> Keeps private keys offline, protecting them from malware and cyber threats.</li>
+  <li><strong>Support for Multiple Treasuries:</strong> Manage various digital assets, some even support NFTs.</li>
+  <li><strong>Reliable Recovery Process:</strong> Recover your holdings with the seed phrase if your wallet is lost or stolen.</li>
+  <li><strong>Portable and Convenient:</strong> Easily carry your hardware wallet and access your assets anywhere.</li>
+  <li><strong>Seamless Trading:</strong>S Supports wallet-to-wallet trading without withdrawal limit fees.</li>
+</ul>
+
+<h4 id="the-challenges-of-the-quest-problems-with-hardware-wallets">The Challenges of the Quest: Problems With Hardware Wallets</h4>
+
+<p>Even magical tools have their challenges:</p>
+
+<ul>
+  <li><strong>The Price of Security:</strong> More expensive than software wallets due to their robust security.</li>
+  <li><strong>Learning the Ropes:</strong> Requires some technical knowledge to set up and use.</li>
+  <li><strong>Physical Vulnerabilities:</strong> Can be stolen, damaged, or lost.</li>
+  <li><strong>Maintenance and Updates:</strong> Regular firmware updates are needed to maintain security and functionality.</li>
+</ul>
+
+<h4 id="best-practices-for-hodlers">Best Practices for Hodlers</h4>
+
+<p>To make the most of your hardware wallet, follow these best practices:</p>
+
+<ul>
+  <li><strong>Buy from Trusted Merchants:</strong> Purchase from reputable manufacturers to avoid counterfeit devices. That Amazon reseller discount is not worth the trouble.</li>
+  <li><strong>Set Up in a Secure Environment:</strong> Use a secure connection and device during setup. Learn to install a live Linux distro.</li>
+  <li><strong>Double-Check Transactions:</strong> Always verify transaction details on the wallet’s screen before approving. There are no refounds.</li>
+  <li><strong>Guard Your Treasure:</strong> Keep the physical device and seed phrase safe—don’t store them digitally. Most of the issues to look out for are digital.</li>
+  <li><strong>Stay Updated:</strong> Regularly update the firmware to ensure security. This journey <strong>requires</strong> your active participation.</li>
+</ul>
+
+<p>There you have it! With a hardware wallet, you can keep your Bitcoin Citadel Keys safe while exploring the thrilling world of digital assets.</p>
+
+<p>Happy liquidations!</p>]]></content><author><name>alx</name></author><category term="Analysis" /><summary type="html"><![CDATA[Hey grifters! Whether you’re just dipping your toes in bitcoin or you’re a seasoned trader, protecting your digital gold is a must. That’s where hardware wallets come in—they’re like enchanted vaults that blend security and convenience.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/12.webp" /><media:content medium="image" url="/assets/images/12.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Monetizing Gameplay: Bitcoin In Game Economies</title><link href="/monetizing-gameplay-bitcoin-in-game-economies/" rel="alternate" type="text/html" title="Monetizing Gameplay: Bitcoin In Game Economies" /><published>2024-05-26T00:00:00+00:00</published><updated>2024-05-26T00:00:00+00:00</updated><id>/monetizing-gameplay-bitcoin-in-game-economies</id><content type="html" xml:base="/monetizing-gameplay-bitcoin-in-game-economies/"><![CDATA[<p>Hey there, orange and not so orange gamedevs! Have you ever thought about integrating Bitcoin into your game’s economy?</p>
 
 <p>It’s an exciting concept that’s been gaining traction in the gaming world. As digital currencies become more mainstream, their potential applications in game development are both fascinating and complex.</p>
 
@@ -365,12 +487,4 @@ sets the stage for future gains as the reduced supply could lead to higher price
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Satoshi'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Satoshi' to STDOUT.</span></code></pre></figure>
 
-<p>Fun. Code is fun, even if sometimes it’s merely a black box.</p>]]></content><author><name>alx</name></author><category term="Algos" /><category term="Code" /><summary type="html"><![CDATA[I always felt intrigued by code. It felt like the people who delved into its secrets held the keys to the magical kingdom of do-whatever-you-feel-like. And it really is like that, as Satoshi proved. He used merely 200k lines of C++ and rewrote the future.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/6.webp" /><media:content medium="image" url="/assets/images/6.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">x100 To The Moon</title><link href="/x100-to-the-moon/" rel="alternate" type="text/html" title="x100 To The Moon" /><published>2024-01-12T00:00:00+00:00</published><updated>2024-01-12T00:00:00+00:00</updated><id>/x100-to-the-moon</id><content type="html" xml:base="/x100-to-the-moon/"><![CDATA[<p>The first time I heard about Bitcoin, i was like “GTFO, computer money can’t work”. Since then I realized many shared the same first reaction. I guess it’s only natural. But since then, it has been a decade, and we know more about this unique form of technology.</p>
-
-<p>I made my first million by 23 and lost it by 24, all thanks to Bitcoin, FOMO and hype. But I learned and I am stronger, a pleb among plebs. While WW3 is flaring up, we memed a world reserve currency in existence. Are you not entertained ?</p>
-
-<blockquote>
-  <p>If you don’t believe me or dont get it, I dont have time to convince you, sorry</p>
-</blockquote>
-
-<p>Let’s get x100 to the moon!</p>]]></content><author><name>alx</name></author><category term="bitcoin" /><category term="rants" /><summary type="html"><![CDATA[The first time I heard about Bitcoin, i was like “GTFO, computer money can’t work”. Since then I realized many shared the same first reaction. I guess it’s only natural. But since then, it has been a decade, and we know more about this unique form of technology.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/2.webp" /><media:content medium="image" url="/assets/images/2.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Fun. Code is fun, even if sometimes it’s merely a black box.</p>]]></content><author><name>alx</name></author><category term="Algos" /><category term="Code" /><summary type="html"><![CDATA[I always felt intrigued by code. It felt like the people who delved into its secrets held the keys to the magical kingdom of do-whatever-you-feel-like. And it really is like that, as Satoshi proved. He used merely 200k lines of C++ and rewrote the future.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/6.webp" /><media:content medium="image" url="/assets/images/6.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
